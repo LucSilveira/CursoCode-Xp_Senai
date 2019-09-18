@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Vendedor comissao\bin\Debug\netcoreapp2.2\Vendedor comissao.deps.json
+C:\Users\fic\Desktop\csharp\Vendedor comissao\bin\Debug\netcoreapp2.2\Vendedor comissao.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Vendedor comissao\bin\Debug\netcoreapp2.2\Vendedor comissao.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Vendedor comissao\bin\Debug\netcoreapp2.2\Vendedor comissao.dll
+C:\Users\fic\Desktop\csharp\Vendedor comissao\bin\Debug\netcoreapp2.2\Vendedor comissao.pdb
+C:\Users\fic\Desktop\csharp\Vendedor comissao\obj\Debug\netcoreapp2.2\Vendedor comissao.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Vendedor comissao\obj\Debug\netcoreapp2.2\Vendedor comissao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Vendedor comissao\obj\Debug\netcoreapp2.2\Vendedor comissao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Vendedor comissao\obj\Debug\netcoreapp2.2\Vendedor comissao.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Vendedor comissao\obj\Debug\netcoreapp2.2\Vendedor comissao.dll
+C:\Users\fic\Desktop\csharp\Vendedor comissao\obj\Debug\netcoreapp2.2\Vendedor comissao.pdb

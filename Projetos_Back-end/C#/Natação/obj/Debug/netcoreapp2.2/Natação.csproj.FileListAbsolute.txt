@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Natação\bin\Debug\netcoreapp2.2\Natação.deps.json
+C:\Users\fic\Desktop\csharp\Natação\bin\Debug\netcoreapp2.2\Natação.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Natação\bin\Debug\netcoreapp2.2\Natação.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Natação\bin\Debug\netcoreapp2.2\Natação.dll
+C:\Users\fic\Desktop\csharp\Natação\bin\Debug\netcoreapp2.2\Natação.pdb
+C:\Users\fic\Desktop\csharp\Natação\obj\Debug\netcoreapp2.2\Natação.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Natação\obj\Debug\netcoreapp2.2\Natação.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Natação\obj\Debug\netcoreapp2.2\Natação.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Natação\obj\Debug\netcoreapp2.2\Natação.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Natação\obj\Debug\netcoreapp2.2\Natação.dll
+C:\Users\fic\Desktop\csharp\Natação\obj\Debug\netcoreapp2.2\Natação.pdb

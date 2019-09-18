@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Passageiros\bin\Debug\netcoreapp2.2\Passageiros.deps.json
+C:\Users\fic\Desktop\csharp\Passageiros\bin\Debug\netcoreapp2.2\Passageiros.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Passageiros\bin\Debug\netcoreapp2.2\Passageiros.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Passageiros\bin\Debug\netcoreapp2.2\Passageiros.dll
+C:\Users\fic\Desktop\csharp\Passageiros\bin\Debug\netcoreapp2.2\Passageiros.pdb
+C:\Users\fic\Desktop\csharp\Passageiros\obj\Debug\netcoreapp2.2\Passageiros.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Passageiros\obj\Debug\netcoreapp2.2\Passageiros.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Passageiros\obj\Debug\netcoreapp2.2\Passageiros.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Passageiros\obj\Debug\netcoreapp2.2\Passageiros.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Passageiros\obj\Debug\netcoreapp2.2\Passageiros.dll
+C:\Users\fic\Desktop\csharp\Passageiros\obj\Debug\netcoreapp2.2\Passageiros.pdb

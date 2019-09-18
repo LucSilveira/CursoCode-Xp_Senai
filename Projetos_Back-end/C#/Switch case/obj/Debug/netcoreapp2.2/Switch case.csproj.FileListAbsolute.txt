@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Switch case\obj\Debug\netcoreapp2.2\Switch case.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Switch case\obj\Debug\netcoreapp2.2\Switch case.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Switch case\obj\Debug\netcoreapp2.2\Switch case.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Switch case\obj\Debug\netcoreapp2.2\Switch case.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Switch case\bin\Debug\netcoreapp2.2\Switch case.deps.json
+C:\Users\fic\Desktop\csharp\Switch case\bin\Debug\netcoreapp2.2\Switch case.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Switch case\bin\Debug\netcoreapp2.2\Switch case.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Switch case\bin\Debug\netcoreapp2.2\Switch case.dll
+C:\Users\fic\Desktop\csharp\Switch case\bin\Debug\netcoreapp2.2\Switch case.pdb
+C:\Users\fic\Desktop\csharp\Switch case\obj\Debug\netcoreapp2.2\Switch case.dll
+C:\Users\fic\Desktop\csharp\Switch case\obj\Debug\netcoreapp2.2\Switch case.pdb

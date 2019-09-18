@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Ano do usuario\bin\Debug\netcoreapp2.2\Ano do usuario.deps.json
+C:\Users\fic\Desktop\csharp\Ano do usuario\bin\Debug\netcoreapp2.2\Ano do usuario.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Ano do usuario\bin\Debug\netcoreapp2.2\Ano do usuario.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Ano do usuario\bin\Debug\netcoreapp2.2\Ano do usuario.dll
+C:\Users\fic\Desktop\csharp\Ano do usuario\bin\Debug\netcoreapp2.2\Ano do usuario.pdb
+C:\Users\fic\Desktop\csharp\Ano do usuario\obj\Debug\netcoreapp2.2\Ano do usuario.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Ano do usuario\obj\Debug\netcoreapp2.2\Ano do usuario.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Ano do usuario\obj\Debug\netcoreapp2.2\Ano do usuario.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Ano do usuario\obj\Debug\netcoreapp2.2\Ano do usuario.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Ano do usuario\obj\Debug\netcoreapp2.2\Ano do usuario.dll
+C:\Users\fic\Desktop\csharp\Ano do usuario\obj\Debug\netcoreapp2.2\Ano do usuario.pdb

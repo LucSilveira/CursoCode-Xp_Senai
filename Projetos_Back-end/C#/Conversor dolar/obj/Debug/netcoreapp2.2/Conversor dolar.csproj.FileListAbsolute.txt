@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Conversor dolar\bin\Debug\netcoreapp2.2\Conversor dolar.deps.json
+C:\Users\fic\Desktop\csharp\Conversor dolar\bin\Debug\netcoreapp2.2\Conversor dolar.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Conversor dolar\bin\Debug\netcoreapp2.2\Conversor dolar.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Conversor dolar\bin\Debug\netcoreapp2.2\Conversor dolar.dll
+C:\Users\fic\Desktop\csharp\Conversor dolar\bin\Debug\netcoreapp2.2\Conversor dolar.pdb
+C:\Users\fic\Desktop\csharp\Conversor dolar\obj\Debug\netcoreapp2.2\Conversor dolar.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Conversor dolar\obj\Debug\netcoreapp2.2\Conversor dolar.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Conversor dolar\obj\Debug\netcoreapp2.2\Conversor dolar.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Conversor dolar\obj\Debug\netcoreapp2.2\Conversor dolar.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Conversor dolar\obj\Debug\netcoreapp2.2\Conversor dolar.dll
+C:\Users\fic\Desktop\csharp\Conversor dolar\obj\Debug\netcoreapp2.2\Conversor dolar.pdb

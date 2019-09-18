@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Divida a pagar\bin\Debug\netcoreapp2.2\Divida a pagar.deps.json
+C:\Users\fic\Desktop\csharp\Divida a pagar\bin\Debug\netcoreapp2.2\Divida a pagar.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Divida a pagar\bin\Debug\netcoreapp2.2\Divida a pagar.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Divida a pagar\bin\Debug\netcoreapp2.2\Divida a pagar.dll
+C:\Users\fic\Desktop\csharp\Divida a pagar\bin\Debug\netcoreapp2.2\Divida a pagar.pdb
+C:\Users\fic\Desktop\csharp\Divida a pagar\obj\Debug\netcoreapp2.2\Divida a pagar.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Divida a pagar\obj\Debug\netcoreapp2.2\Divida a pagar.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Divida a pagar\obj\Debug\netcoreapp2.2\Divida a pagar.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Divida a pagar\obj\Debug\netcoreapp2.2\Divida a pagar.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Divida a pagar\obj\Debug\netcoreapp2.2\Divida a pagar.dll
+C:\Users\fic\Desktop\csharp\Divida a pagar\obj\Debug\netcoreapp2.2\Divida a pagar.pdb

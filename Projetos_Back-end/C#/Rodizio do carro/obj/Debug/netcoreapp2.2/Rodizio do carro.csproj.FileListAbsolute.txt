@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Rodizio do carro\obj\Debug\netcoreapp2.2\Rodizio do carro.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Rodizio do carro\obj\Debug\netcoreapp2.2\Rodizio do carro.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Rodizio do carro\obj\Debug\netcoreapp2.2\Rodizio do carro.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Rodizio do carro\obj\Debug\netcoreapp2.2\Rodizio do carro.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Rodizio do carro\bin\Debug\netcoreapp2.2\Rodizio do carro.deps.json
+C:\Users\fic\Desktop\csharp\Rodizio do carro\bin\Debug\netcoreapp2.2\Rodizio do carro.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Rodizio do carro\bin\Debug\netcoreapp2.2\Rodizio do carro.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Rodizio do carro\bin\Debug\netcoreapp2.2\Rodizio do carro.dll
+C:\Users\fic\Desktop\csharp\Rodizio do carro\bin\Debug\netcoreapp2.2\Rodizio do carro.pdb
+C:\Users\fic\Desktop\csharp\Rodizio do carro\obj\Debug\netcoreapp2.2\Rodizio do carro.dll
+C:\Users\fic\Desktop\csharp\Rodizio do carro\obj\Debug\netcoreapp2.2\Rodizio do carro.pdb

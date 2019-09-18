@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Divisao por modulo\bin\Debug\netcoreapp2.2\Divisao por modulo.deps.json
+C:\Users\fic\Desktop\csharp\Divisao por modulo\bin\Debug\netcoreapp2.2\Divisao por modulo.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Divisao por modulo\bin\Debug\netcoreapp2.2\Divisao por modulo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Divisao por modulo\bin\Debug\netcoreapp2.2\Divisao por modulo.dll
+C:\Users\fic\Desktop\csharp\Divisao por modulo\bin\Debug\netcoreapp2.2\Divisao por modulo.pdb
+C:\Users\fic\Desktop\csharp\Divisao por modulo\obj\Debug\netcoreapp2.2\Divisao por modulo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Divisao por modulo\obj\Debug\netcoreapp2.2\Divisao por modulo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Divisao por modulo\obj\Debug\netcoreapp2.2\Divisao por modulo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Divisao por modulo\obj\Debug\netcoreapp2.2\Divisao por modulo.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Divisao por modulo\obj\Debug\netcoreapp2.2\Divisao por modulo.dll
+C:\Users\fic\Desktop\csharp\Divisao por modulo\obj\Debug\netcoreapp2.2\Divisao por modulo.pdb

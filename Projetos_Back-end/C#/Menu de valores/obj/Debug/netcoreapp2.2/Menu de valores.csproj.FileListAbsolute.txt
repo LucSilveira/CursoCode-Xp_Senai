@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Menu de valores\obj\Debug\netcoreapp2.2\Menu de valores.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Menu de valores\obj\Debug\netcoreapp2.2\Menu de valores.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Menu de valores\obj\Debug\netcoreapp2.2\Menu de valores.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Menu de valores\obj\Debug\netcoreapp2.2\Menu de valores.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Menu de valores\bin\Debug\netcoreapp2.2\Menu de valores.deps.json
+C:\Users\fic\Desktop\csharp\Menu de valores\bin\Debug\netcoreapp2.2\Menu de valores.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Menu de valores\bin\Debug\netcoreapp2.2\Menu de valores.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Menu de valores\bin\Debug\netcoreapp2.2\Menu de valores.dll
+C:\Users\fic\Desktop\csharp\Menu de valores\bin\Debug\netcoreapp2.2\Menu de valores.pdb
+C:\Users\fic\Desktop\csharp\Menu de valores\obj\Debug\netcoreapp2.2\Menu de valores.dll
+C:\Users\fic\Desktop\csharp\Menu de valores\obj\Debug\netcoreapp2.2\Menu de valores.pdb

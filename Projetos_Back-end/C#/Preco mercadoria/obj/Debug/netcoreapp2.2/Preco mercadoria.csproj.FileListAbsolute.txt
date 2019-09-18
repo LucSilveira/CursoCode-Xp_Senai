@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp\Preco mercadoria\bin\Debug\netcoreapp2.2\Preco mercadoria.deps.json
+C:\Users\fic\Desktop\csharp\Preco mercadoria\bin\Debug\netcoreapp2.2\Preco mercadoria.runtimeconfig.json
+C:\Users\fic\Desktop\csharp\Preco mercadoria\bin\Debug\netcoreapp2.2\Preco mercadoria.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp\Preco mercadoria\bin\Debug\netcoreapp2.2\Preco mercadoria.dll
+C:\Users\fic\Desktop\csharp\Preco mercadoria\bin\Debug\netcoreapp2.2\Preco mercadoria.pdb
+C:\Users\fic\Desktop\csharp\Preco mercadoria\obj\Debug\netcoreapp2.2\Preco mercadoria.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp\Preco mercadoria\obj\Debug\netcoreapp2.2\Preco mercadoria.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp\Preco mercadoria\obj\Debug\netcoreapp2.2\Preco mercadoria.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp\Preco mercadoria\obj\Debug\netcoreapp2.2\Preco mercadoria.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp\Preco mercadoria\obj\Debug\netcoreapp2.2\Preco mercadoria.dll
+C:\Users\fic\Desktop\csharp\Preco mercadoria\obj\Debug\netcoreapp2.2\Preco mercadoria.pdb
