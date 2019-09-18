@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\obj\Debug\netcoreapp2.2\Percentual de aumento.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\obj\Debug\netcoreapp2.2\Percentual de aumento.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\obj\Debug\netcoreapp2.2\Percentual de aumento.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\obj\Debug\netcoreapp2.2\Percentual de aumento.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\bin\Debug\netcoreapp2.2\Percentual de aumento.deps.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\bin\Debug\netcoreapp2.2\Percentual de aumento.runtimeconfig.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\bin\Debug\netcoreapp2.2\Percentual de aumento.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\bin\Debug\netcoreapp2.2\Percentual de aumento.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\bin\Debug\netcoreapp2.2\Percentual de aumento.pdb
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\obj\Debug\netcoreapp2.2\Percentual de aumento.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Percentual de aumento\obj\Debug\netcoreapp2.2\Percentual de aumento.pdb
