@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\bin\Debug\netcoreapp2.2\Codin-Dojo mercado.deps.json
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\bin\Debug\netcoreapp2.2\Codin-Dojo mercado.runtimeconfig.json
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\bin\Debug\netcoreapp2.2\Codin-Dojo mercado.runtimeconfig.dev.json
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\bin\Debug\netcoreapp2.2\Codin-Dojo mercado.dll
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\bin\Debug\netcoreapp2.2\Codin-Dojo mercado.pdb
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\obj\Debug\netcoreapp2.2\Codin-Dojo mercado.csprojAssemblyReference.cache
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\obj\Debug\netcoreapp2.2\Codin-Dojo mercado.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\obj\Debug\netcoreapp2.2\Codin-Dojo mercado.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\obj\Debug\netcoreapp2.2\Codin-Dojo mercado.AssemblyInfo.cs
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\obj\Debug\netcoreapp2.2\Codin-Dojo mercado.dll
+C:\Users\fic\Documents\csharp\Codin-Dojo mercado\obj\Debug\netcoreapp2.2\Codin-Dojo mercado.pdb

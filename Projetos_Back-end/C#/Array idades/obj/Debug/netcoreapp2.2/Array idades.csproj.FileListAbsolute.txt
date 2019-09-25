@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\obj\Debug\netcoreapp2.2\Array idades.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\obj\Debug\netcoreapp2.2\Array idades.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\obj\Debug\netcoreapp2.2\Array idades.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\obj\Debug\netcoreapp2.2\Array idades.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\bin\Debug\netcoreapp2.2\Array idades.deps.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\bin\Debug\netcoreapp2.2\Array idades.runtimeconfig.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\bin\Debug\netcoreapp2.2\Array idades.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\bin\Debug\netcoreapp2.2\Array idades.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\bin\Debug\netcoreapp2.2\Array idades.pdb
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\obj\Debug\netcoreapp2.2\Array idades.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array idades\obj\Debug\netcoreapp2.2\Array idades.pdb

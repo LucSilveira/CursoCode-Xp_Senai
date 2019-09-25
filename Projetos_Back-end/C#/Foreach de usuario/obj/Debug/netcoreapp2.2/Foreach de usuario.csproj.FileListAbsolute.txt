@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\obj\Debug\netcoreapp2.2\Foreach de usuario.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\obj\Debug\netcoreapp2.2\Foreach de usuario.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\obj\Debug\netcoreapp2.2\Foreach de usuario.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\obj\Debug\netcoreapp2.2\Foreach de usuario.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\bin\Debug\netcoreapp2.2\Foreach de usuario.deps.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\bin\Debug\netcoreapp2.2\Foreach de usuario.runtimeconfig.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\bin\Debug\netcoreapp2.2\Foreach de usuario.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\bin\Debug\netcoreapp2.2\Foreach de usuario.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\bin\Debug\netcoreapp2.2\Foreach de usuario.pdb
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\obj\Debug\netcoreapp2.2\Foreach de usuario.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Foreach de usuario\obj\Debug\netcoreapp2.2\Foreach de usuario.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\obj\Debug\netcoreapp2.2\Array de media.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\obj\Debug\netcoreapp2.2\Array de media.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\obj\Debug\netcoreapp2.2\Array de media.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\obj\Debug\netcoreapp2.2\Array de media.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\bin\Debug\netcoreapp2.2\Array de media.deps.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\bin\Debug\netcoreapp2.2\Array de media.runtimeconfig.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\bin\Debug\netcoreapp2.2\Array de media.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\bin\Debug\netcoreapp2.2\Array de media.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\bin\Debug\netcoreapp2.2\Array de media.pdb
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\obj\Debug\netcoreapp2.2\Array de media.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C#\Array de media\obj\Debug\netcoreapp2.2\Array de media.pdb
