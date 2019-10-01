@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\bin\Debug\netcoreapp2.2\CadastroMVC.deps.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\bin\Debug\netcoreapp2.2\CadastroMVC.runtimeconfig.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\bin\Debug\netcoreapp2.2\CadastroMVC.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\bin\Debug\netcoreapp2.2\CadastroMVC.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\bin\Debug\netcoreapp2.2\CadastroMVC.pdb
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\obj\Debug\netcoreapp2.2\CadastroMVC.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\obj\Debug\netcoreapp2.2\CadastroMVC.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\obj\Debug\netcoreapp2.2\CadastroMVC.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\obj\Debug\netcoreapp2.2\CadastroMVC.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\obj\Debug\netcoreapp2.2\CadastroMVC.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\CadastroMVC\obj\Debug\netcoreapp2.2\CadastroMVC.pdb

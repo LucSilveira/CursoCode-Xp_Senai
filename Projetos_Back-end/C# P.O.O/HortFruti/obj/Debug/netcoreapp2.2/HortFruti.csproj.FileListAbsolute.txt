@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\obj\Debug\netcoreapp2.2\HortFruti.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\obj\Debug\netcoreapp2.2\HortFruti.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\obj\Debug\netcoreapp2.2\HortFruti.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\obj\Debug\netcoreapp2.2\HortFruti.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\bin\Debug\netcoreapp2.2\HortFruti.deps.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\bin\Debug\netcoreapp2.2\HortFruti.runtimeconfig.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\bin\Debug\netcoreapp2.2\HortFruti.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\bin\Debug\netcoreapp2.2\HortFruti.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\bin\Debug\netcoreapp2.2\HortFruti.pdb
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\obj\Debug\netcoreapp2.2\HortFruti.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\HortFruti\obj\Debug\netcoreapp2.2\HortFruti.pdb

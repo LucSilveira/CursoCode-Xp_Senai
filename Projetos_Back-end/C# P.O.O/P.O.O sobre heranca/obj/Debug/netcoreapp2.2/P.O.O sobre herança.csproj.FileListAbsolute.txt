@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre herança\obj\Debug\netcoreapp2.2\P.O.O sobre herança.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre herança\obj\Debug\netcoreapp2.2\P.O.O sobre herança.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre herança\obj\Debug\netcoreapp2.2\P.O.O sobre herança.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre herança\obj\Debug\netcoreapp2.2\P.O.O sobre herança.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\obj\Debug\netcoreapp2.2\P.O.O sobre herança.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\obj\Debug\netcoreapp2.2\P.O.O sobre herança.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\obj\Debug\netcoreapp2.2\P.O.O sobre herança.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\obj\Debug\netcoreapp2.2\P.O.O sobre herança.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\bin\Debug\netcoreapp2.2\P.O.O sobre herança.deps.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\bin\Debug\netcoreapp2.2\P.O.O sobre herança.runtimeconfig.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\bin\Debug\netcoreapp2.2\P.O.O sobre herança.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\bin\Debug\netcoreapp2.2\P.O.O sobre herança.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\bin\Debug\netcoreapp2.2\P.O.O sobre herança.pdb
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\obj\Debug\netcoreapp2.2\P.O.O sobre herança.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\P.O.O sobre heranca\obj\Debug\netcoreapp2.2\P.O.O sobre herança.pdb
