@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\bin\Debug\netcoreapp2.2\Vingadores.deps.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\bin\Debug\netcoreapp2.2\Vingadores.runtimeconfig.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\bin\Debug\netcoreapp2.2\Vingadores.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\bin\Debug\netcoreapp2.2\Vingadores.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\bin\Debug\netcoreapp2.2\Vingadores.pdb
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\obj\Debug\netcoreapp2.2\Vingadores.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\obj\Debug\netcoreapp2.2\Vingadores.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\obj\Debug\netcoreapp2.2\Vingadores.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\obj\Debug\netcoreapp2.2\Vingadores.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\obj\Debug\netcoreapp2.2\Vingadores.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# P.O.O\Vingadores\obj\Debug\netcoreapp2.2\Vingadores.pdb
