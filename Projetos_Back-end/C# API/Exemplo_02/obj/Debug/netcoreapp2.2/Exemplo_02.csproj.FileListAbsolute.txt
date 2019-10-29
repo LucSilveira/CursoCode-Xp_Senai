@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\obj\Debug\netcoreapp2.2\Exemplo_02.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\obj\Debug\netcoreapp2.2\Exemplo_02.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\obj\Debug\netcoreapp2.2\Exemplo_02.RazorAssemblyInfo.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\obj\Debug\netcoreapp2.2\Exemplo_02.RazorAssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\obj\Debug\netcoreapp2.2\Exemplo_02.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\obj\Debug\netcoreapp2.2\Exemplo_02.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\bin\Debug\netcoreapp2.2\Exemplo_02.deps.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\bin\Debug\netcoreapp2.2\Exemplo_02.runtimeconfig.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\bin\Debug\netcoreapp2.2\Exemplo_02.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\bin\Debug\netcoreapp2.2\Exemplo_02.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\bin\Debug\netcoreapp2.2\Exemplo_02.pdb
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\obj\Debug\netcoreapp2.2\Exemplo_02.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\obj\Debug\netcoreapp2.2\Exemplo_02.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Exemplo_02\obj\Debug\netcoreapp2.2\Exemplo_02.pdb

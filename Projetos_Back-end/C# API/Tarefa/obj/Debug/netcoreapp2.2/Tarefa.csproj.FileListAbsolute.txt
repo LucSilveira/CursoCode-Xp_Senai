@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\obj\Debug\netcoreapp2.2\Tarefa.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\obj\Debug\netcoreapp2.2\Tarefa.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\obj\Debug\netcoreapp2.2\Tarefa.RazorAssemblyInfo.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\obj\Debug\netcoreapp2.2\Tarefa.RazorAssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\obj\Debug\netcoreapp2.2\Tarefa.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\obj\Debug\netcoreapp2.2\Tarefa.AssemblyInfo.cs
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\bin\Debug\netcoreapp2.2\Tarefa.deps.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\bin\Debug\netcoreapp2.2\Tarefa.runtimeconfig.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\bin\Debug\netcoreapp2.2\Tarefa.runtimeconfig.dev.json
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\bin\Debug\netcoreapp2.2\Tarefa.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\bin\Debug\netcoreapp2.2\Tarefa.pdb
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\obj\Debug\netcoreapp2.2\Tarefa.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\obj\Debug\netcoreapp2.2\Tarefa.dll
+C:\Users\fic\Desktop\CursoCode_Xp\Projetos_Back-end\C# API\Tarefa\obj\Debug\netcoreapp2.2\Tarefa.pdb
