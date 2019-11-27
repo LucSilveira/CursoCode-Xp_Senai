@@ -13,9 +13,9 @@ namespace Gufus.Models
         }
 
         [Key]
-        [Column("Usuario_id")]
+        [Column("Usuario_id")] 
         public int UsuarioId { get; set; }
-        [Required]
+        // [Required]
         [StringLength(255)]
         public string Nome { get; set; }
         [Required]

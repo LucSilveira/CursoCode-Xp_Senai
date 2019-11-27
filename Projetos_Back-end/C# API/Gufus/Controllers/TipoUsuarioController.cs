@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Gufus.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,6 +15,7 @@ namespace Gufus.Controllers
 
         GufosContext context = new GufosContext();
 
+        [Authorize(Roles="admin")]
         [HttpGet]
         public async Task<ActionResult<List<TipoUsuario>>> Get(){
 

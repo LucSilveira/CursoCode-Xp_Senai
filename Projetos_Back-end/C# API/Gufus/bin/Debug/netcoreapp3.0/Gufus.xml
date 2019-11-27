@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Gufus</name>
+    </assembly>
+    <members>
+        <member name="M:Gufus.Controllers.LoginController.autenticarUsuario(Gufus.Models.Usuario)">
+            <summary>
+            Metodo privado que valida se um usuario exixte no banco
+            </summary>
+            <param name="logado">Obj do tipo UsuarioModel</param>
+            <returns>Obj do tipo UsuarioModel</returns>
+        </member>
+    </members>
+</doc>

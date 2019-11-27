@@ -6,6 +6,7 @@ using System.Text;
 using Gufus.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
@@ -60,14 +61,9 @@ namespace Gufus.Controllers
         private Usuario autenticarUsuario(Usuario logado){
 
             //Declara uma variavel que busca no nosso banco um usuario que tenha o email e senha cadastrados
-            var usuario = _context.Usuario.FirstOrDefault(usr => usr.Email == logado.Email && usr.Senha == logado.Senha);
+            var usuario = _context.Usuario.Include(tp => tp.TipoUsuario).FirstOrDefault(usr => usr.Email == logado.Email && usr.Senha == logado.Senha);
 
-            // Veifica se o usuario não pe nullo
-            if(usuario != null){
-
-                // Retorna um usuario valido do banco
-                return logado;
-            }
+         
 
             return usuario;
         }
@@ -84,6 +80,8 @@ namespace Gufus.Controllers
 
                 new Claim(JwtRegisteredClaimNames.NameId, infoUsuario.Nome),
                 new Claim(JwtRegisteredClaimNames.Email, infoUsuario.Email),
+                new Claim(ClaimTypes.Role, infoUsuario.TipoUsuario.Titulo),
+                new Claim("Role", infoUsuario.TipoUsuario.Titulo),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
 
             };
