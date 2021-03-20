@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+a, p{
+    font-family: 'Segoe UI', sans-serif;
+}
+h1, h2, h3, h4{
+    font-family: 'Segoe UI', sans-serif;
+}
+body{
+    font-size: 16px;
+}
+/* topo */
+#topo{
+    width: 100%;
+    height: 5em;
+    background: #fff;
+    box-shadow: 0em 0.125em 0.3125em #ccc; /* horizontal vertical desfoque cor */
+    display: flex;
+    justify-content: center;
+}
+
+.menu{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* border: solid 0.125em red; */
+    justify-content: space-between;
+}
+.menu img{
+    height: 5em;
+}
+
+.menu ul{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+.menu ul li:nth-child(5n){ /*modifica apenas o 5° elemento da li*/
+    font-weight: bold;
+}
+.menu ul a{
+    padding: 1.75em 3.75em;
+    font-size: 1em;
+    /* background: yellow; */
+    text-decoration: none;
+    color: #444;
+}
+/* .menu ul a:visited{
+    color: purple;
+} psedudo-class */
+
+/* tudo sobre pseudo class https://www.w3schools.com/css/css_pseudo_classes.asp */
+
+.menu ul a:hover{
+    background: #780388;
+    color: #fff;
+    text-shadow: 0em 0em 0.9375em;
+    transition-duration: 0.5s;
+}
+
+/* categorias */
+main{
+    background: #F5F5F5;
+}
+.container{
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+
+#categorias{
+    width: 100%; 
+    /* width: 100vw; View width não foi inserido porque tem a largura da barra de rolagem "atrapalhando" */
+    height: 100vh; /*View height*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: #F5F5F5; */
+    
+}
+.box{
+    width: 25%;
+    height: 60%;
+    background: #fff;
+    box-shadow: 0em 0em 0.625em #ccc;
+    margin: 0em 0.5em; 
+}
+.cadastro_categorias {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2em;
+}
+.cadastro_categorias h2{
+    font-weight: 400;
+    color:#666;
+    text-transform: uppercase;
+}
+.cadastro_categorias form{
+    width: 80%;
+    height: 100%;
+    /* background: red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cadastro_categorias input{
+    width: 100%;
+    height: 2.5em;
+    margin-bottom: 1em;
+    margin-top: 0.3em;  
+    padding: 0.5em;
+    border-radius: 5px;
+    border: solid 1px #ccc;
+}
+.btn_purple{
+    background: #6F47FF;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}
+
+
+.lista_categorias {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2em;
+}
+
+.lista_categorias h2 {
+    font-weight: 400;
+    color:#666;
+    text-transform: uppercase;
+}
+
+table, td{
+    border: 1px solid grey;
+    padding: 1em 2em;
+    margin-top: 1em;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+.lista_categorias .navegacao{
+    margin-top: 15px;
+}
+
+.lista_categorias .navegacao a{
+    border: 1px solid #000;
+    border-radius: 2px;
+    padding: 4px 10px;
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+}
+
+/* *************** PAGINA INDEX ***************************** */
+
+#home_banner{
+    background-image: linear-gradient(rgba(183, 39, 255, 0.6), rgba(183, 39, 255, 0.6)), url("../imagens/abstract-login.jpg");
+    background-size: cover; /*cobrir toda a section*/
+    background-repeat: no-repeat; 
+    height: 85vh;
+    background-attachment: fixed; /* a imagem fica fixa e todo o conteudo passa por cima*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home_titulo h1{
+    color: white;
+    font-size: 5em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.home_titulo hr{
+    background-color: #fff;
+    width: 18vw;
+    height: 0.5vh;
+    margin: 0 auto;
+}
+
+.home_titulo p{
+    color: #fff;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px){
+    .menu ul a{
+        padding: 1.75em 1.75em;
+    }
+
+    .box{
+        width: 50vw;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    
+    #topo{
+        height: 42vh;
+    }
+
+    .menu ul{
+        display: block;
+        height: 14vh;
+    }
+
+    .menu ul a{
+        padding: 0.2em 2em;
+    }
+
+    #categorias{
+        flex-wrap: wrap;
+    }
+
+    .container{
+        height: 140vh;
+    }
+
+    .box{
+        flex-grow: 2;
+        width: 80%;
+        margin-top: 2em;
+    }
+
+    .home_titulo h1{
+        font-size: 5em;
+    }
+
+}

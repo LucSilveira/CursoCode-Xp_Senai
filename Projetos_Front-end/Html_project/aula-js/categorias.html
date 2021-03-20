@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Svigufo - Eventos públicos e privados</title>
+  <!-- Estilos -->
+  <link rel="stylesheet" href="./css/flexbox.css" />
+  <link rel="stylesheet" href="./css/reset.css" />
+  <link rel="stylesheet" href="./css/style.css" />
+
+  <!-- Fontes -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
+
+  <style>
+    .input2{
+      border: 2px solid green !important;
+    }
+
+    .input1{
+      border: 2px solid red !important;
+    }
+
+    #nome-tipo-evento:focus, #codigo:focus{
+      outline: none;
+    }
+  </style>
+
+  </head>
+
+<body>
+  <div>
+    <header class="cabecalhoPrincipal">
+      <div class="container">
+        <img src="img/icon-login.png" />
+
+        <nav class="cabecalhoPrincipal-nav">
+          Administrador
+        </nav>
+      </div>
+    </header>
+
+    <main class="conteudoPrincipal">
+      <section class="conteudoPrincipal-cadastro">
+        
+        <h1 class="conteudoPrincipal-cadastro-titulo">Tipos de Eventos</h1>
+        <div class="container" id="conteudoPrincipal-lista">
+           
+
+          <table id="tabela-lista">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Título</th>
+              </tr>
+            </thead>
+
+            <tbody id="tabela-lista-corpo"></tbody>
+            
+          </table>
+        </div>
+        <div id="teste">
+
+        </div>
+        <div class="container" id="conteudoPrincipal-cadastro">
+          <h2 class="conteudoPrincipal-cadastro-titulo">
+            Cadastrar Tipo de Evento
+          </h2>
+          <form>
+            <div class="container">
+              <input type="text" id="codigo" placeholder="Código" onkeyup="inserir()"><br>
+              <input type="text" id="nome-tipo-evento" placeholder="tipo do evento" onkeyup="inserir()" />
+              <button onclick="enviar()" class="conteudoPrincipal-btn conteudoPrincipal-btn-cadastro">
+                Cadastrar
+              </button>
+            </div>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="rodapePrincipal">
+      <section class="rodapePrincipal-patrocinadores">
+        <div class="container">
+          <p class="pp">Escola SENAI de Informática - 2019</p>
+         
+        </div>
+      </section>
+    </footer>
+  </div>
+
+  <!--  -->
+  <script>
+
+    const cod = document.getElementById('codigo');
+
+    const evento = document.getElementById('nome-tipo-evento');
+
+    function enviar(){
+      event.preventDefault();
+
+      let tabela = document.getElementById('tabela-lista-corpo');
+      let linha = document.createElement("tr");
+
+      let colunaId = document.createElement("td");
+      colunaId.textContent = cod.value;
+
+      let colunaNome = document.createElement("td");
+      colunaNome.textContent = evento.value;
+
+      
+      // linha.textContent = evento.value;
+      linha.appendChild(colunaId);
+      linha.appendChild(colunaNome);
+      
+      tabela.appendChild(linha);
+      evento.value = "";
+      cod.value = "";
+      cod.className = "";
+    }
+
+    function inserir(){
+      let txt = evento.value;
+      // let xtx = cod.value;
+
+      if(txt.length >= 3){
+        evento.className = 'input2';
+        console.log("coloriu verde")
+      }else{
+        evento.className = 'input1';
+        console.log("coloriu vermelho")
+      }
+    }
+  </script>
+</body>
+
+</html>
